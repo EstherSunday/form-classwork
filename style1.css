@@ -102,16 +102,39 @@
    .img1
    {
     position: absolute;
-    width: 50px;
+    width: 300px;
+    top: 40px;
+  
+    
+
    }
    .img2
    {
     position: absolute;
-    width: 50px;
+    top: 17%;
+    width: 300px;
+    
    }
    .gop
    {
     display: none;
+    
+   }
+
+   .container{
+    padding-top: 20%;
+    text-align: center;
+   }
+
+   .you{
+    padding-right: 10%;
+
+   }
+
+   .you1{
+    width: 60%;
+    padding: 10px;
+    
    }
 
    
