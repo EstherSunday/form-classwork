@@ -30,13 +30,17 @@
   margin-top: 80%;
  }
 
- .roe{
+ .rows{
+  width: 90%;
+  margin-top: 10px;
+}
+
+
+ .row{
   width: 100%;
   margin-top: 10px;
  }
-.roes{
-  
-}
+
 
   .home{
     height: 40px;
