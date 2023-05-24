@@ -1,0 +1,121 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.img{
+  width: 30%;
+  height: 100vh;
+ }
+ 
+ .img2{
+   position: absolute;
+   top: 40px;
+  left: 8%;
+  width: 30%;
+  
+ 
+ }
+ 
+ .img1{
+   position: absolute;
+   top: 55%;
+   left: 15%;
+  width: 30%;
+
+ 
+ }
+
+ .gop{
+  position: absolute;
+  left: 70%;
+  top: 30%;
+  text-align: center;
+  
+ 
+ }
+
+ .you{
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 40px;
+ 
+  
+ 
+ }
+ 
+
+ .you p{
+  margin-top: 10px;
+  
+  
+ 
+ }
+.ss
+{
+  display: none;
+}
+
+ .you1{
+  margin-top: 40px;
+  background-color: hsl(278.46deg 68.42% 11.18%);
+  padding: 10px  20px;
+  width: 130%;
+  color: white;
+  border-radius: 5px;
+  border: none;
+
+  
+ }
+ .bh
+ {
+  display: none;
+ }
+ .bs
+ {
+  display: contents;
+  width: 30%;
+ }
+
+ @media screen and (max-width: 426px) {
+   .bs
+   {
+    display: none;
+   }
+   .ss
+   {
+    display: contents;
+    width: 100%;
+    height: 30vh;
+   }
+   .bh
+   {
+    display: contents;
+    width: 100%;
+    height: 70vh;
+   }
+   .si
+   {
+    width: 100%;
+   }
+   .img1
+   {
+    position: absolute;
+    width: 50px;
+   }
+   .img2
+   {
+    position: absolute;
+    width: 50px;
+   }
+   .gop
+   {
+    display: none;
+   }
+
+   
+ }
+
+
+ 

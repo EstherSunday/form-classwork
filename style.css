@@ -1,0 +1,73 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.img{
+ width: 35%;
+ height: 100vh;
+}
+
+.img2{
+  position: absolute;
+  top: 40px;
+ left: 10%;
+ width: 30%;
+
+}
+
+.img1{
+  position: absolute;
+  top: 55%;
+  left: 15%;
+  width: 30%;
+
+}
+
+.container{
+  right: 20%;
+  top: 35%;
+  position: absolute;
+  width: 20%;
+}
+
+
+  .field1{
+    width: 120%;
+    height: 30px;
+  
+
+  }
+
+  .for{
+   display: flex;
+   
+  }
+
+  .for1{
+    display: flex;
+    width: 100px;
+    height: 60px;
+  }
+
+  .for input{
+    width: 30%;
+    height: 30px;
+   margin: 1%;
+  
+ 
+
+  }
+
+  .home{
+    height: 40px;
+  width: 120%;
+  border: none;
+  font-size: 16px;
+  font-weight: 400;
+  border-radius: 5px;
+  margin-top: 10%;
+  background-color: hsl(278.46deg 68.42% 11.18%);
+  color: white;
+  }
