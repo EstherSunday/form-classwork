@@ -26,31 +26,91 @@
 }
 
 .botton-half{
-  margin: 0;
-  margin-top: 80%;
- }
+  position: absolute;
+  left: 60%;
+  top: 30%;
+  
+}
 
- .rows{
-  width: 90%;
+.row{
+  width: 100%;
   margin-top: 10px;
 }
 
+.rows{
+  width: 90%;
+margin-top: 10px;
+}
 
- .row{
-  width: 100%;
-  margin-top: 10px;
+.sub-row{
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.sub-rows{
+  flex: 0 0 50%;
+  max-width: 50%;
+margin-left: 10px;
+}
+
+.botton-half .rows{
+  width: 50%;
+  display: flex;
+}
+
+.title{
+  margin-top: 5px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.titles{
+  margin-top: 5px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.fox{
+  width: 70%;
+  height: 35px;
   
- }
+  padding: 5px 5px;
+  margin-top: 5px;
+  outline: none;
+  border: 1px solid rgb(170, 167, 167);
+  border-radius: 5px;
+
+}
+
+.foxe{
+  width: 33.33%;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid rgb(170, 167, 167);
+  padding: 5px 5px;
+  margin-top: 3px;
+  outline: none;
+  
+}
 
 
+.foxed{
+  width: 100%;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid rgb(170, 167, 167);
+  padding: 5px 0 5px 5px;
+  margin-top: 3px;
+  outline: none;
+}
   .home{
     height: 40px;
-  width: 120%;
+  width: 70%;
   border: none;
   font-size: 16px;
   font-weight: 400;
   border-radius: 5px;
-  margin-top: 10%;
+  margin-top: 5%;
   background-color: hsl(278.46deg 68.42% 11.18%);
   color: white;
  
