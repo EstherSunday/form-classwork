@@ -68,10 +68,12 @@ margin-left: 10px;
   margin-top: 5px;
   font-size: 13px;
   font-weight: 500;
+  
 }
 
 .fox{
   width: 70%;
+
   height: 35px;
   
   padding: 5px 5px;
@@ -95,7 +97,7 @@ margin-left: 10px;
 
 
 .foxed{
-  width: 100%;
+  width: 170%;
   height: 30px;
   border-radius: 5px;
   border: 1px solid rgb(170, 167, 167);
@@ -127,7 +129,7 @@ color: white;
   display: none;
 }
 
-@media screen and (max-width: 426px) {
+@media screen and (max-width: 324px) {
   .ss
    {
     display: contents;
@@ -135,21 +137,68 @@ color: white;
     height: 30vh;
    }
 
+   .bs
+   {
+    display: none;
+   }
+
    .si
    {
     width: 100%;
    }
+
    .img1
    {
     position: absolute;
-    width: 300px;
-    top: 40px;
+    width: 240px;
+    top: 30px;
+    left: 20%;
   }
    .img2
    {
+    width: 240px;
     position: absolute;
-    top: 17%;
-    width: 300px;
+    top: 20%;
+    left: 9%;
+    
+    
+   }
+
+   .botton-half{
+    display: contents;
+   }
+
+   .row{
+    margin-top: 5px;
+   
+   }
+
+   .fox{
+    width: 90%;
+    height: 40px;
+
+   }
+
+   .yes{
+    width: 90%;
+    margin-top: 40px;
+    margin-left: 30px;
+   }
+
+   .foxe{
+    
+    
+   }
+
+   .foxed{
+    width: 180px;
+    height: 35px;
+
+   }
+
+
+   .home{
+    width: 90%;
     
    }
 }

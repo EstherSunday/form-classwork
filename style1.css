@@ -108,17 +108,19 @@
    .img1
    {
     position: absolute;
-    width: 300px;
-    top: 40px;
+    width: 240px;
+    top: 30px;
+    left: 20%;
   
     
 
    }
    .img2
    {
+    width: 240px;
     position: absolute;
-    top: 17%;
-    width: 300px;
+    top: 20%;
+    left: 9%;
     
    }
    .gop
