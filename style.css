@@ -70,4 +70,11 @@
   margin-top: 10%;
   background-color: hsl(278.46deg 68.42% 11.18%);
   color: white;
-  }
+ 
+   
+}
+
+.home a{
+  text-decoration: none;
+color: white;
+}
