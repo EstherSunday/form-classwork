@@ -25,40 +25,18 @@
 
 }
 
-/* .container{
-  right: 20%;
-  top: 35%;
-  position: absolute;
-  width: 20%;
+.botton-half{
+  margin: 0;
+  margin-top: 80%;
+ }
+
+ .roe{
+  width: 100%;
+  margin-top: 10px;
+ }
+.roes{
+  
 }
-
-
-  .field1{
-    width: 120%;
-    height: 30px;
-  
-
-  }
-
-  .for{
-   display: flex;
-   
-  }
-
-  .for1{
-    display: flex;
-    width: 100px;
-    height: 60px;
-  }
-
-  .for input{
-    width: 30%;
-    height: 30px;
-   margin: 1%;
-  
- 
-
-  } */
 
   .home{
     height: 40px;
